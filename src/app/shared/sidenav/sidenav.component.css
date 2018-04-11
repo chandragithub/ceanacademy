@@ -1,0 +1,24 @@
+.sidenav-container {
+    width: 100%;
+    position: fixed;
+    top: 64px;
+    bottom: 0;
+}
+
+.sidenav-content {
+    display: flex;
+    width: 97%;
+    height: 100%;
+    align-items: left;
+    justify-content: left;
+}
+
+.sidenav {
+    padding: 20px;
+    width: 250px;
+}
+
+.side-nav-button {
+    position: fixed;
+    top: 60px;
+}
